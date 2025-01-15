@@ -19,7 +19,7 @@ def load_google_sheet(sheet_url):
     try:
         # Use service account credentials
         credentials = service_account.Credentials.from_service_account_file(
-            'perfect-impulse-447907-s9-e1c34e3f9ffc.json',  # You'll need to replace this with your credentials file
+            'EXAMPLE12323123123.json',  # You'll need to replace this with your credentials file
             scopes=[
                 'https://www.googleapis.com/auth/spreadsheets.readonly',
                 'https://www.googleapis.com/auth/drive.readonly'
