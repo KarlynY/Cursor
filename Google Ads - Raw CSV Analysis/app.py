@@ -19,7 +19,7 @@ def load_google_sheet(sheet_url):
     try:
         # Use service account credentials
         credentials = service_account.Credentials.from_service_account_file(
-            'EXAMPLE12323123123.json',  # You'll need to replace this with your credentials file
+            'perfect-impulse-447907-s9-7e489823fb20.json',  # You'll need to replace this with your credentials file
             scopes=[
                 'https://www.googleapis.com/auth/spreadsheets.readonly',
                 'https://www.googleapis.com/auth/drive.readonly'
@@ -143,6 +143,13 @@ def analyze_campaign(df):
 
                     # Visualization section
                     st.subheader("4. Performance Trends Visualization")
+                    
+                    # Sort monthly_performance by Month
+                    monthly_performance['Month'] = pd.to_datetime(monthly_performance['Month'], format='%b-%y')
+                    monthly_performance = monthly_performance.sort_values('Month')
+                    
+                    # Convert back to original format for display
+                    monthly_performance['Month'] = monthly_performance['Month'].dt.strftime('%b-%y')
                     
                     # Create trend chart for Clicks and Cost
                     fig1 = px.line(monthly_performance, x='Month', y=[clicks_col, cost_col],
