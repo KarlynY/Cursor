@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "perfect-impulse-447907-s9",
+  "private_key_id": "e1c34e3f9ffc2dbbbd46e664c224ca2b4305d1f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeGLVVbteBXRJf\nlUammluy36IvOv3htuOcM/FibySytU5XXVtguAbpb6MQqa954CHTEGUDeYQYP/rG\nvzkLpEi4qj/5UYwHpGRHdU18L5swQ5eABadTdpQgAG3ay5+8oLtSbioGHvXUskSC\nNfhgdQ2cuiln5I96UJTmq+9JBwb8256VlHAzBfGNUMTyIVOohvRDd2RutX4kscOG\n8+WOYfl/xIlhC3QkJU1+byTI9hQjXEWeQXxcUqJQLpdHwJk+QTuhnnXmv5LqjCFf\nEKVhTGerRilU3T4cI91lmpyzNlQeK8DI5+JTIZdlsZrkiFg0j9rQLdxQjj75PXLP\n5+crpOpzAgMBAAECggEAHNHuRIu3N3rq/Yet4HMlIj+IRknfvETlyzTg3QvbycQp\nat226bPCds2GEWSNe48zO1GyyGZfgTgwlAiJ8qhZJWjLzrxh5Ya/TROCM5BOHwdD\nV/Av55QnPoo1fHxAO1elrkos2P7N258/w+joxVSxTY/WOn089pQ4ALD5Jvvj9zYc\ndUgpkv2lbwFg2ifbuINg7/7s2WFwYVTcO5pkI+nYB42cP4HU1itwoP7F5DdohchK\nvylxDjWCwUMPp66vBxgpDoTc1URBERrI2Bs6hb/l+z+xkuOR8Tdpd34oLwychZPW\nM2XnkPsv2PYcf+Q8QGhSLKs6jhS8YqsX12r9NeHBkQKBgQDXo005Qgnbd9ToC+yL\nCEPvyBgxNM0G4vdlyRNrFpc4TtrhdkJZG6fMdNvJ8d8t/5ELUrS4VDaJQ2cvqExw\ndhN2/HjOS/lY9PuVMAn5UCMYxFo7g6apPtWIND5G4YZGg1qOQV8Xq53CxWQKfSUA\nNN6ZfSFBDpNOvFODLJunz3LoSwKBgQC7sDPTTEjahYjk5uBspjH4/Q6R6OzzDRMF\n5gT/RaEki0g+RlL8u+aXVahgzCIiAWfrTUgQIUEKWu5BZp6XyJpylTTW76uKmz+4\n7Xnw79/sVIhbYy1vdK/hNIpDJqHw+RI28EWjGcuupxM6LXlTZkF+7hfqZ/HB2/El\nebWz2Gn9eQKBgDtaqKvlAH+XSVQhzBcszD5Y7kfFB9YobP5oTV8Bldga5GaAvZx3\nX0WIuOKqH8syeEMMnc/K5kP7+JAGnBusdIkgz0PBZ73TmNgko+oq464yhb+x6hLV\nx8K41pd+Bg6soyVa2wjR5Reya2nzrlaTNt46sgeNMoDOl5IYmjOjhzZnAoGBALfe\nL3dBlWGWTfzI/XUS/4PIDRz+DhsxZMBzjdOyl+HgHR7879GuFoGNJc3mTU35CKAo\nbn92xGvrlts1OArEOCImb8RcuTWpT6zP4JUbucehLJAywdEdhCvgt85/K0iSCLkP\ne3kEDVkFTj3BTMlaNLGveHhn6hwbZstqx4nvai4pAoGAbgkZW5Xy5rJ74FZ6eIe2\nlszdAW/erjOtb5qYHwX0UbeinQQYUtME+vx6RS/F+qhC+x8nbuHommZluDwbDknB\n3R5XJ3qsmMjP0kOOsV3TtS42R6Vz+GZe++o+1PZ26zeXYNIuz826mrWtT+jyta3Z\n2KoasL+IPioosdzvPjUFmV4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cursor-google-ads@perfect-impulse-447907-s9.iam.gserviceaccount.com",
+  "client_id": "104908447707294585540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cursor-google-ads%40perfect-impulse-447907-s9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
